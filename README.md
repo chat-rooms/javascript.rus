@@ -1,4 +1,4 @@
-javascript.rus
-==============
+JavaScript Chat Room for Russian Speakers
+=========================================
 
-JavaScript Chat Rooms for Russian speakers
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/chat-rooms/javascript.rus)
